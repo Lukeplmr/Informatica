@@ -1,0 +1,9 @@
+git add nome_file.estensione
+
+git commit -m "commento"
+
+git branch -M main
+
+git remote add origin https....
+
+git push -u origin main 
